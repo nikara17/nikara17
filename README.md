@@ -10,8 +10,9 @@ I work at the intersection of software, intelligent systems, and real-world appl
 
 ### 🧭 VisionAssist — Assistive Navigation Prototype (2025)
 
-Developed an assistive navigation system using Raspberry Pi and microcontroller integration.
-Combines time-of-flight sensing with computer vision concepts to support real-time spatial awareness.
+Developed as part of a team project, contributing to the design and implementation of an assistive navigation system using Raspberry Pi and microcontroller integration.
+Focused on integrating sensing concepts (ToF) with software logic to support real-time spatial awareness and guidance.
+
 
 ---
 
