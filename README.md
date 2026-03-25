@@ -1,16 +1,76 @@
-## Hi there 👋
+# Nikara Ishwarlall
 
-<!--
-**nikara17/nikara17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & AI Systems | Full Stack Development
 
-Here are some ideas to get you started:
+I work at the intersection of software, intelligent systems, and real-world application — building solutions that connect data, logic, and physical environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Selected Work
+
+### 🧭 VisionAssist — Assistive Navigation Prototype (2025)
+
+Developed an assistive navigation system using Raspberry Pi and microcontroller integration.
+Combines time-of-flight sensing with computer vision concepts to support real-time spatial awareness.
+
+![VisionAssist](images/visionproj.png)
+
+---
+
+### 🏠 Smart Home Automation Prototype (2024)
+
+Designed a modular smart home system using sensors and Python-based control logic.
+Focused on reliability, structured workflows, and practical user interaction.
+
+![Smart Home](images/home-assistant-proj.png)
+
+---
+
+### 🌐 Personal Portfolio Website (2023)
+
+Built and deployed a responsive portfolio focused on performance, clarity, and structured presentation.
+
+![Portfolio](images/portfolio-proj.png)
+
+---
+
+## 🧠 Technical Focus
+
+**Systems & AI**
+
+* Robotics concepts (ROS2, control systems, navigation)
+* Computer vision fundamentals
+* Machine learning concepts (training, evaluation)
+
+**Software Development**
+
+* Python (automation, data handling)
+* JavaScript, HTML, CSS
+* REST API fundamentals
+
+**Data**
+
+* Pandas, NumPy, data preprocessing
+* Exploratory analysis and visualisation
+
+**Infrastructure & Tools**
+
+* Git & GitHub workflows
+* Linux (WSL/Ubuntu)
+* Microcontrollers & embedded systems
+
+---
+
+## 📍 Current Direction
+
+* Building systems that combine AI with real-world usability
+* Strengthening full stack development and backend architecture
+* Exploring accessible and inclusive intelligent systems
+
+---
+
+## 📫 Contact
+
+Email: [nikara.connect@gmail.com](mailto:nikara.connect@gmail.com)
+LinkedIn: https://www.linkedin.com/in/nikara-ishwarlall-761095251
+Portfolio: https://nikara17.github.io/Website-Portfolio/
