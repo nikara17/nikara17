@@ -13,8 +13,6 @@ I work at the intersection of software, intelligent systems, and real-world appl
 Developed an assistive navigation system using Raspberry Pi and microcontroller integration.
 Combines time-of-flight sensing with computer vision concepts to support real-time spatial awareness.
 
-![VisionAssist](images/visionproj.png)
-
 ---
 
 ### 🏠 Smart Home Automation Prototype (2024)
@@ -22,15 +20,11 @@ Combines time-of-flight sensing with computer vision concepts to support real-ti
 Designed a modular smart home system using sensors and Python-based control logic.
 Focused on reliability, structured workflows, and practical user interaction.
 
-![Smart Home](images/home-assistant-proj.png)
-
 ---
 
 ### 🌐 Personal Portfolio Website (2023)
 
 Built and deployed a responsive portfolio focused on performance, clarity, and structured presentation.
-
-![Portfolio](images/portfolio-proj.png)
 
 ---
 
